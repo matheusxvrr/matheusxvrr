@@ -76,6 +76,34 @@
 
 ---
 
+## 🔢 Github Stats
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=matheusxvrr&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=matheusxvrr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+---
+
 ## 🚀 Filosofia
 
 > _"Somos aquilo que fazemos repetidamente. Excelência, portanto, não é um ato, mas um hábito." </br>- Aristóteles_
